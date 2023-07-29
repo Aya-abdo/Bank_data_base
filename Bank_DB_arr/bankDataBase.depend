@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1631913028 source:c:\c embedded diploma tasks\bankdatabase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bank.h"
+
+1631899339 c:\c embedded diploma tasks\bankdatabase\bank.h
+
+1650665592 source:c:\c embedded diploma tasks\bankdatabase\bank.c
+	"bank.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

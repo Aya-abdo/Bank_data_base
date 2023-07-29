@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1651690805 source:c:\c problem solving\bank_data_base_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bank.h"
+
+1651690201 c:\c problem solving\bank_data_base_linked_list\bank.h
+
+1651696426 source:c:\c problem solving\bank_data_base_linked_list\bank.c
+	"bank.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
